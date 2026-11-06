@@ -83,7 +83,7 @@ mirrored networking is needed.
    DesignCraft 7981 — not its own default
    7979, which is VectorCraft's; PrintCraft uses a control file, not a port).
 2. In PiCode: **Extensions → Install extension**, paste
-   `https://github.com/cognixws/picode-artcraft`, review, **Install**, then
+   `https://github.com/cognixws/cognix-artcraft`, review, **Install**, then
    turn it on in the workspaces where you want it.
 
 When using custom app folders or ports with a CLI that filters subprocess
